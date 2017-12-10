@@ -7,7 +7,7 @@ puts 'Hello world' # Prints "Hello world" to the console
 # A, B and C
 
 =begin
-This can be used for multi line comments. 
+This can be used for multi line comments.
 It is not commonly used
 
 USe ctrl + / for quickly commenting out lines
