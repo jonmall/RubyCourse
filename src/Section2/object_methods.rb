@@ -10,3 +10,11 @@ p foo.upcase
 puts
 
 p 10.next
+p -1.next
+
+puts
+
+puts 'Hello World'
+puts 'Hello World'.inspect
+
+p 'Hellow World'
