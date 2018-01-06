@@ -47,6 +47,9 @@ puts a.size.odd?
 
 story = 'Once upon a time in a land far, far away'
 
-p story.char(23)
+p story[23]
+p story.slice(23)
 
-
+p story[22, 4]
+p story[22..story.size]
+p story[22...story.size]
